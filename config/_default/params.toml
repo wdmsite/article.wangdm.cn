@@ -1,0 +1,14 @@
+[header.title]
+  logo = ""
+  name = "网摘"
+  typeit = false
+
+[home.profile]
+  title = ""
+  subtitle = ""
+
+[app]
+  noFavicon = true
+
+[page.library.js]
+  someJavascript = "https://hm.baidu.com/hm.js?0e3d7b6e97e37139d22096aec97e408a"
