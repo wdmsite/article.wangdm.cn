@@ -5,7 +5,7 @@ categories:
 - Redis
 tags:
 - Redis
-draft: true
+draft: false
 ---
 
 ### 1、什么是 Redis?
