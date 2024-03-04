@@ -1,0 +1,17 @@
+[[main]]
+  name = '首页'
+  identifier = 'index'
+  url = 'https://www.wangdm.cn'
+  weight = 20
+  
+[[main]]
+  name = '博客'
+  identifier = 'blog'
+  url = 'https://blog.wangdm.cn'
+  weight = 21
+  
+[[main]]
+  name = '关于'
+  identifier = 'about'
+  url = '/about/'
+  weight = 22
