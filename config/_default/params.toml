@@ -12,3 +12,6 @@
 
 [page.library.js]
   someJavascript = "https://hm.baidu.com/hm.js?0e3d7b6e97e37139d22096aec97e408a"
+
+[footer]
+  icp = '<a target="_blank" href="https://beian.miit.gov.cn">粤ICP备18138543号</a>'
